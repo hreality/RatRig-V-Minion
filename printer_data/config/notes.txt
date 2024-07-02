@@ -12,8 +12,8 @@ Y-Axis Drag Chain: https://www.printables.com/model/155232-ratrig-v-minion-y-axi
 Electronics Enclosure: https://www.printables.com/model/303376-ratrig-v-minion-electronics-enclosure/comments/844786
 Meanwell PS: https://www.printables.com/model/121864-meanwell-uhp-350-24-mount-for-ratrig-v-minion-3d-p/comments/893516
 
-Notes:
-blah blah blah
-
 ToDo:
 I REALLY want to hang a display on this..
+
+Notes:
+blah blah blah
