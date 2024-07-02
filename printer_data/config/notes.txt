@@ -1,5 +1,8 @@
-Mods or Alterations:
+Hardware:
+Stock Minion
+Changed toolhead to EVA3
 
+Mods or Alterations:
 Instllation of Neopixels into Z extrusion.
 Klipper Backup: https://github.com/Staubgeborener/klipper-backup
 X-Axis Camera: https://www.printables.com/model/763681-webcam-mount-for-v-minion
@@ -8,3 +11,9 @@ EVA3 Toolhead: https://main.eva-3d.page/
 Y-Axis Drag Chain: https://www.printables.com/model/155232-ratrig-v-minion-y-axis-drag-chain-compatible-with/comments/893580
 Electronics Enclosure: https://www.printables.com/model/303376-ratrig-v-minion-electronics-enclosure/comments/844786
 Meanwell PS: https://www.printables.com/model/121864-meanwell-uhp-350-24-mount-for-ratrig-v-minion-3d-p/comments/893516
+
+Notes:
+blah blah blah
+
+ToDo:
+I REALLY want to hang a display on this..
