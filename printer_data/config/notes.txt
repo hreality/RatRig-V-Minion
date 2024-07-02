@@ -2,6 +2,10 @@ Hardware:
 Stock Minion
 Changed toolhead to EVA3
 
+Filament Used:
+3DO Green & Black PETG Primary Black/Accent Green
+https://us.ratrig.com/3d-printers/filament.html?cat=227
+
 Mods or Alterations:
 Instllation of Neopixels into Z extrusion.
 Klipper Backup: https://github.com/Staubgeborener/klipper-backup
@@ -14,6 +18,7 @@ Meanwell PS: https://www.printables.com/model/121864-meanwell-uhp-350-24-mount-f
 
 ToDo:
 I REALLY want to hang a display on this..
+
 
 Notes:
 blah blah blah
